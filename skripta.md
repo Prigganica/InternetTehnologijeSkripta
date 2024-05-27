@@ -257,19 +257,11 @@ učita stranicu spisak.htm. Šta korisnik treva da otkusa u URL polje?
 - ftp://st1:123@os.ac.me:167/spisak.htm
 78. Koja verzija IP-a NE podržava NAT i NAPT?
 - ni jedna od ponuđenih
-- Ipv6
-- Ipv4
-- WEB 1.0
 79. Koja od navedenih zapisa može biti dio PAT(NAPT) tabele?
-- 10.10.1.2; 10.11.1.2
-- 10.10.10.1:123; 99.77.257.25:2345
-- 192.1.1.2; 89.188.23.1
 - 192.1.1.2:2331; 89.188.23.1: 31200
 - 10.10.10.1:21; 199.99.99.2:12345
 80. Koja od navedenih zapisa može biti dio NAT tabela?
 - 192.1.1.2; 89.188.23.1
-- 10.10.10.1; 99.77.257.25
-- 192.1.1.2:2331; 89.188.23.1: 31200
 - 10.10.1.2; 10.11.1.2
 - 10.10.10.1; 199,.99.99.2
 
